@@ -1,0 +1,544 @@
+State,PC,lowbmi_women (%),lowbmi_men (%),overweight_women (%),overweight_men (%)
+Andaman & Nicobar Island,Andaman & Nicobar Islands,12.8,8.5,30.7,38.5
+Andhra Pradesh,Araku,21.0,15.1,27.3,28.8
+Andhra Pradesh,Anakapalli,18.9,12.1,28.7,29.0
+Andhra Pradesh,Srikakulam,20.5,15.2,24.4,18.9
+Andhra Pradesh,Eluru,14.2,14.5,41.4,42.7
+Andhra Pradesh,Rajahmundry,15.4,13.6,37.6,32.5
+Andhra Pradesh,narsapuram,14.5,15.3,40.0,41.3
+Andhra Pradesh,Amlapuram,15.9,12.8,36.4,28.0
+Andhra Pradesh,narasaraopet,11.3,15.4,45.1,39.0
+Andhra Pradesh,Machilipatnam,13.5,12.4,45.4,46.5
+Andhra Pradesh,Guntur,11.3,15.3,45.0,38.9
+Andhra Pradesh,Ongole,16.9,13.4,32.5,33.6
+Andhra Pradesh,Bapatla,14.4,14.2,37.9,35.9
+Andhra Pradesh,Kurnool,21.6,13.6,24.9,31.7
+Andhra Pradesh,Vizianagaram,23.6,17.6,23.2,26.6
+Andhra Pradesh,Kakinada,15.9,12.8,36.4,28.0
+Andhra Pradesh,Rajampet,20.2,14.8,27.9,34.2
+Andhra Pradesh,Nellore,16.9,16.9,34.6,32.2
+Andhra Pradesh,Anantapur,20.2,20.2,26.5,28.8
+Andhra Pradesh,Kadapa,18.7,11.3,27.0,40.8
+Andhra Pradesh,nandyal,21.6,13.6,24.9,31.7
+Andhra Pradesh,Chittoor,20.9,16.7,28.4,30.8
+Andhra Pradesh,Tirupati,18.7,17.1,32.1,31.4
+Andhra Pradesh,Hindupur,20.2,20.2,26.5,28.8
+Andhra Pradesh,Vijayawada,13.5,12.4,45.5,46.6
+Andhra Pradesh,Visakhapatnam,19.9,13.2,27.8,29.4
+Arunanchal Pradesh,Arunachal West,8.3,7.9,15.6,20.4
+Arunanchal Pradesh,Arunachal East,6.7,6.4,21.4,23.0
+Assam,Lakhimpur,25.9,18.9,13.1,16.4
+Assam,Dibrugarh,30.9,28.5,14.3,15.3
+Assam,Jorhat,30.6,27.9,12.8,13.8
+Assam,Tezpur,20.8,17.8,13.1,14.3
+Assam,Kaliabor,27.7,24.2,14.3,10.5
+Assam,Mangaldoi,22.1,17.7,11.7,9.1
+Assam,nagaon,28.3,27.6,15.1,7.1
+Assam,Autonomous District,17.1,11.5,13.9,11.2
+Assam,Dhubri,28.3,14.0,10.1,15.2
+Assam,Karimganj,31.3,21.9,9.3,10.0
+Assam,Silchar,31.5,22.9,7.7,9.3
+Assam,Kokrajhar,20.3,17.6,14.1,11.2
+Assam,Guwahati,18.9,13.5,19.4,17.7
+Assam,Barpeta,23.6,22.7,13.2,14.9
+Bihar,Muzaffarpur,33.0,30.5,10.5,19.3
+Bihar,Valmiki nagar,27.0,26.2,13.6,13.9
+Bihar,Araria,38.3,39.0,6.2,6.2
+Bihar,Gopalganj,25.7,24.3,16.1,22.2
+Bihar,Siwan,24.2,17.4,17.0,15.3
+Bihar,Vaishali,32.2,29.7,11.1,18.4
+Bihar,Jhanjharpur,32.0,23.1,8.9,10.4
+Bihar,Supaul,37.5,29.2,6.0,10.0
+Bihar,Pashchim Champaran,28.0,25.4,11.6,12.1
+Bihar,Madhubani,31.7,23.5,9.9,11.6
+Bihar,Kishanganj,35.8,21.6,6.9,7.4
+Bihar,Darbhanga,31.2,24.2,11.8,13.7
+Bihar,Purnia,37.6,30.2,8.5,7.2
+Bihar,Maharajganj,23.9,21.6,17.7,17.4
+Bihar,Madhepura,33.6,28.6,8.0,9.2
+Bihar,Begusarai,31.0,25.1,9.9,12.5
+Bihar,Arrah,24.1,18.7,14.4,13.7
+Bihar,Sasaram,27.6,27.5,14.6,12.2
+Bihar,nawada,33.8,28.6,10.9,8.7
+Bihar,Banka,30.8,25.4,7.4,12.5
+Bihar,nalanda,30.7,25.2,10.2,10.6
+Bihar,Katihar,32.4,21.9,8.0,6.3
+Bihar,Samastipur,29.9,29.5,9.0,7.2
+Bihar,Khagaria,31.6,24.1,9.6,10.5
+Bihar,Pataliputra,24.0,17.6,19.5,15.8
+Bihar,Buxar,25.6,22.0,16.3,13.1
+Bihar,Patna Sahib,24.0,17.7,19.3,15.7
+Bihar,Bhagalpur,26.2,23.8,12.3,9.2
+Bihar,Munger,26.9,21.5,15.5,14.5
+Bihar,Purba Champaran,28.9,24.9,10.2,10.9
+Bihar,Sheohar,31.1,28.2,9.6,9.8
+Bihar,Sitamarhi,33.6,34.2,8.9,7.5
+Bihar,Ujiapur,29.5,29.8,9.4,7.4
+Bihar,Hajipur,28.8,26.1,13.9,14.7
+Bihar,Karakat,29.1,30.4,13.6,15.9
+Bihar,Saran (Chhapra),23.9,23.7,18.1,18.5
+Bihar,Jamui,35.2,26.6,9.4,12.3
+Bihar,Aurangabad,33.8,26.9,11.5,19.2
+Bihar,Gaya,36.0,23.1,11.0,17.8
+Bihar,Jahanabad,32.0,26.4,9.9,11.5
+Chandigarh,Chandigarh,13.3,21.7,41.5,32.0
+Chhattisgarh,Janjgir-Champa,26.8,22.1,15.1,10.2
+Chhattisgarh,Raipur,26.7,26.0,17.1,14.8
+Chhattisgarh,Surguja,35.8,27.7,8.6,7.5
+Chhattisgarh,Bilaspur,13.5,15.0,10.0,10.3
+Chhattisgarh,Rajnandgaon,22.1,15.9,7.6,6.6
+Chhattisgarh,Durg,24.1,34.8,18.6,13.8
+Chhattisgarh,Mahasamund,28.3,24.7,11.1,9.9
+Chhattisgarh,Raigarh,28.3,21.2,10.8,10.7
+Chhattisgarh,Kanker,29.8,30.9,13.0,11.9
+Chhattisgarh,Bastar,33.8,25.2,5.0,4.8
+Chhattisgarh,Korba,25.3,22.2,12.8,10.8
+Dadara & nagar Havelli,Dadra & nagar Haveli,27.8,19.1,19.8,22.9
+Daman & Diu,Daman & Diu,12.4,12.1,31.6,30.6
+Goa,South Goa,13.3,10.1,32.1,32.0
+Goa,North Goa,15.9,11.3,34.6,33.0
+Gujarat,Bardoli,27.8,26.7,24.7,17.0
+Gujarat,Junagadh,16.9,16.4,25.7,21.4
+Gujarat,Surat,18.4,22.7,34.5,23.2
+Gujarat,Kheda,32.2,29.1,22.6,17.0
+Gujarat,Ahmadabad (West),21.5,25.9,30.7,26.4
+Gujarat,Jamnagar,19.5,12.8,29.4,21.1
+Gujarat,Sabar Kantha,37.1,25.6,12.9,18.1
+Gujarat,Banas Kantha,38.4,28.1,10.6,14.0
+Gujarat,Patan,31.8,29.5,16.1,15.3
+Gujarat,Panch Mahals,44.4,35.5,12.2,12.4
+Gujarat,Dohad,44.5,43.4,9.8,9.6
+Gujarat,Vadodara,29.1,25.6,22.0,20.7
+Gujarat,Anand,35.9,30.2,19.4,17.9
+Gujarat,Amreli,18.2,17.9,28.1,23.8
+Gujarat,Ahmadabad (East),27.5,26.7,24.9,21.5
+Gujarat,Rajkot,17.4,16.0,36.0,22.2
+Gujarat,Surendranagar,23.5,25.1,25.7,22.3
+Gujarat,navsari,26.2,32.0,26.4,18.8
+Gujarat,Bharuch,32.3,24.9,21.9,17.2
+Gujarat,Chhota Udaipur,35.1,28.9,17.8,18.3
+Gujarat,Porbandar,16.4,15.8,30.4,20.4
+Gujarat,Valsad,26.0,19.8,22.4,20.3
+Gujarat,Gandhinagar,25.0,26.3,27.3,23.5
+Gujarat,Mahesana,27.2,27.5,22.6,18.0
+Gujarat,Bhavnagar,21.5,17.4,28.0,23.7
+Gujarat,Kachchh,22.8,20.4,22.1,20.6
+Haryana,Ambala,12.1,8.3,17.4,15.4
+Haryana,Krukshetra,13.3,9.8,22.1,22.1
+Haryana,Sirsa,20.7,11.7,19.4,18.9
+Haryana,Karnal,11.7,5.9,26.0,26.8
+Haryana,Sonipat,14.9,6.3,27.1,26.3
+Haryana,Hisar,15.9,11.1,18.2,20.0
+Haryana,Rohtak,15.3,11.8,21.3,15.0
+Haryana,Bhiwani - Mahendragarh,20.4,17.6,18.9,18.8
+Haryana,Gurgaon,18.3,15.0,17.9,18.3
+Haryana,Faridabad,15.1,11.1,22.2,20.6
+Himachal Pradesh,Hamirpur,14.9,17.2,31.9,24.7
+Himachal Pradesh,Kangra,18.8,18.5,26.9,19.4
+Himachal Pradesh,Shimla,16.2,19.4,30.4,25.5
+Himachal Pradesh,Mandi,15.0,15.9,25.1,18.4
+Jammu & Kashmir,Leh (Ladakh),11.2,10.9,17.5,18.3
+Jammu & Kashmir,Jammu,15.0,15.0,31.6,23.8
+Jammu & Kashmir,Srinagar,7.8,6.5,35.4,25.1
+Jammu & Kashmir,Anantnag,8.7,9.9,32.8,16.8
+Jammu & Kashmir,Baramula,14.0,11.7,24.7,18.5
+Jammu & Kashmir,Udhampur,14.9,14.0,20.1,16.3
+Jharkhand,Jamshedpur,20.2,14.8,16.4,13.9
+Jharkhand,Singhbhum,33.0,24.9,10.1,11.1
+Jharkhand,Rajmahal,34.4,27.3,6.8,8.4
+Jharkhand,Dumka,36.7,21.2,5.5,8.9
+Jharkhand,Godda,36.9,24.4,6.9,9.4
+Jharkhand,Palamu,31.1,28.5,9.7,11.3
+Jharkhand,Hazaribagh,31.1,22.8,10.5,11.4
+Jharkhand,Dhanbad,30.8,22.4,13.6,11.9
+Jharkhand,Kodarma,33.9,21.4,7.6,10.0
+Jharkhand,Lohardaga,29.6,25.5,10.3,10.9
+Jharkhand,Khunti,29.0,23.3,7.3,6.6
+Jharkhand,Chatra,33.6,31.1,7.9,11.2
+Jharkhand,Ranchi,30.0,26.7,15.3,14.7
+Jharkhand,Giridih,31.5,21.5,12.1,11.9
+Karnataka,Gulbarga,23.1,20.1,14.5,17.8
+Karnataka,Bijapur,19.5,11.4,18.0,16.2
+Karnataka,Chikkodi,20.6,17.5,20.7,27.5
+Karnataka,Raichur,23.2,12.4,17.1,21.2
+Karnataka,Koppal,24.9,18.0,14.8,22.0
+Karnataka,Haveri,21.3,17.8,16.6,18.4
+Karnataka,Davanagere,22.7,18.5,25.8,20.1
+Karnataka,Chikkaballapura,21.2,18.2,25.2,22.8
+Karnataka,Udupi Chikmagalur,26.3,19.3,21.9,19.9
+Karnataka,Tumkur,20.3,17.3,22.2,19.3
+Karnataka,Kolar,23.8,25.6,23.3,21.1
+Karnataka,Bangalore Rural,18.2,12.1,27.1,30.5
+Karnataka,Dharwad,16.7,14.0,28.0,28.2
+Karnataka,Bangalore North,14.0,8.7,32.0,26.1
+Karnataka,Dakshina Kannada,25.6,21.6,25.7,20.5
+Karnataka,Mysore,19.2,13.4,28.5,21.1
+Karnataka,Chamrajnagar,22.4,13.9,23.5,19.5
+Karnataka,Mandya,18.3,13.3,26.9,20.6
+Karnataka,Bellary,23.6,18.4,18.9,20.9
+Karnataka,Chitradurga,22.0,17.5,15.7,19.9
+Karnataka,Bidar,25.0,23.6,15.6,17.4
+Karnataka,Uttara Kannada,28.4,26.2,20.4,19.7
+Karnataka,Shimoga,23.0,30.1,24.4,16.0
+Karnataka,Hassan,19.5,18.6,27.1,26.6
+Karnataka,Belgaum,20.6,17.5,20.6,27.4
+Karnataka,Bangalore South,14.0,8.7,32.0,26.1
+Karnataka,Bangalore Central,14.0,8.7,32.0,26.1
+Karnataka,Bagalkot,21.2,18.7,15.9,15.0
+Karnataka,Malappuram,8.8,6.5,34.1,33.4
+Karnataka,Pathanamthitta,9.1,6.9,37.5,35.2
+Karnataka,Mavelikkara,10.0,10.8,37.2,25.7
+Karnataka,Thiruvananthapuram,9.0,6.2,33.6,25.2
+Karnataka,Palakkad,13.5,9.9,32.1,27.0
+Karnataka,Thrissur,8.2,8.4,28.1,26.4
+Karnataka,Alathur,11.6,9.3,30.7,26.7
+Karnataka,Kasaragod,12.0,7.8,28.2,26.0
+Karnataka,Attingal,8.9,6.2,33.6,25.2
+Karnataka,Vadakara,11.8,13.0,27.5,18.5
+Karnataka,Kozhikode,12.3,14.4,27.1,16.4
+Karnataka,Kannur,9.7,6.0,30.1,30.1
+Karnataka,Chalakudy,7.5,7.7,32.3,34.7
+Karnataka,Idukki,9.4,9.2,30.3,29.5
+Karnataka,Alappuzha,11.9,11.8,37.7,22.7
+Karnataka,Kottayam,5.5,5.4,31.9,34.3
+Karnataka,Kollam,6.7,10.5,38.1,30.5
+Karnataka,Ernakulam,7.3,7.4,34.4,38.8
+Karnataka,Wayanad,10.4,7.7,29.9,30.5
+Karnataka,Ponnani,9.1,6.7,33.9,32.8
+Lakshadweep,Lakshadweep,12.5,7.4,41.4,24.6
+Madhya Pradesh,Bhind,29.5,31.1,11.8,9.7
+Madhya Pradesh,Balaghat,39.9,35.8,7.7,5.3
+Madhya Pradesh,Hoshangabad,24.6,23.5,14.8,9.9
+Madhya Pradesh,Dhar,28.8,25.7,13.6,14.0
+Madhya Pradesh,Indore,18.9,16.8,23.6,22.3
+Madhya Pradesh,Gwalior,24.7,26.9,12.8,9.2
+Madhya Pradesh,Sidhi,23.7,24.4,10.8,9.5
+Madhya Pradesh,Rajgarh,35.4,31.6,8.7,6.9
+Madhya Pradesh,Sagar,25.7,32.0,12.9,6.7
+Madhya Pradesh,Damoh,25.9,32.4,13.1,7.1
+Madhya Pradesh,Shahdol,27.6,29.5,11.1,8.4
+Madhya Pradesh,Dewas,28.7,26.8,13.1,13.3
+Madhya Pradesh,Ujjain,27.6,25.2,17.1,10.6
+Madhya Pradesh,Bhopal,19.8,24.1,22.5,20.7
+Madhya Pradesh,Vidisha,28.2,33.4,13.7,9.3
+Madhya Pradesh,Ratlam,33.0,34.6,10.7,7.1
+Madhya Pradesh,Rewa,23.1,25.7,15.4,14.0
+Madhya Pradesh,Satna,22.2,25.5,15.9,12.6
+Madhya Pradesh,Mandsaur,31.4,28.6,14.3,13.0
+Madhya Pradesh,Guna,31.6,35.7,10.0,5.3
+Madhya Pradesh,Chhindwara,29.1,22.5,14.0,12.0
+Madhya Pradesh,Betul,27.2,25.0,13.2,8.4
+Madhya Pradesh,Khargone,38.9,34.7,11.0,10.7
+Madhya Pradesh,Jabalpur,23.3,25.2,20.9,15.2
+Madhya Pradesh,Mandla,32.9,27.8,8.1,9.4
+Madhya Pradesh,Morena,31.7,32.6,12.0,8.8
+Madhya Pradesh,Tikamgarh,29.9,31.1,8.8,6.7
+Madhya Pradesh,Khajuraho,26.5,28.9,13.2,10.3
+Madhya Pradesh,Khandwa,32.7,28.7,13.6,11.4
+Maharashtra,Buldana,28.0,25.4,16.8,11.4
+Maharashtra,Madha,23.7,19.4,21.4,31.5
+Maharashtra,Satara,30.5,24.7,19.3,28.6
+Maharashtra,Jalgaon,18.9,14.0,23.8,19.5
+Maharashtra,Akola,25.3,18.5,18.9,18.0
+Maharashtra,Sangli,21.1,19.3,28.4,29.7
+Maharashtra,Solapur,19.0,15.7,23.0,33.6
+Maharashtra,Amravati,26.8,20.2,18.7,21.3
+Maharashtra,Ramtek,23.0,19.1,23.3,18.4
+Maharashtra,nandurbar,37.8,32.6,11.2,11.3
+Maharashtra,Bhandara - Gondiya,34.4,29.8,10.4,10.0
+Maharashtra,Wardha,28.3,20.0,17.6,17.2
+Maharashtra,Shirur,17.8,10.7,30.2,33.4
+Maharashtra,Beed,22.9,27.8,18.6,13.8
+Maharashtra,Maval,20.2,15.5,28.4,25.9
+Maharashtra,Parbhani,30.6,25.7,14.4,15.7
+Maharashtra,Raigarh,24.8,21.1,23.9,22.0
+Maharashtra,Osmanabad,22.0,19.5,20.1,22.9
+Maharashtra,Hatkanangle,22.7,22.8,27.5,25.8
+Maharashtra,Dhule,27.9,21.2,18.4,20.2
+Maharashtra,Garhchiroli - Chimur,29.9,24.8,8.4,12.7
+Maharashtra,Raver,20.1,15.6,22.8,18.3
+Maharashtra,Biwandi,21.4,13.1,29.0,27.4
+Maharashtra,Dindori,25.8,16.8,22.8,23.6
+Maharashtra,Jalna,24.5,27.9,20.0,18.0
+Maharashtra,Aurangabad,21.5,30.4,23.2,16.6
+Maharashtra,Chandrapur,29.5,28.2,12.4,16.2
+Maharashtra,nashik,25.8,16.8,22.9,23.7
+Maharashtra,Shirdi,22.5,23.5,18.3,20.4
+Maharashtra,Hingoli,29.1,25.2,13.6,10.7
+Maharashtra,Ahmadnagar,22.5,23.5,18.3,20.4
+Maharashtra,Palghar,21.4,13.1,28.9,27.3
+Maharashtra,Latur,25.8,21.5,18.7,16.7
+Maharashtra,Baramati,17.8,10.7,30.2,33.4
+Maharashtra,Ratnagiri - Sindhudurg,30.6,22.2,18.6,22.1
+Maharashtra,Kolhapur,23.4,24.3,27.2,24.4
+Maharashtra,Thane,21.3,13.1,29.0,27.4
+Maharashtra,Mumbai North,15.1,13.9,36.2,32.9
+Maharashtra,Mumbai North-West,15.1,14.0,36.3,33.0
+Maharashtra,Mumbai North-East,15.1,14.0,36.3,33.0
+Maharashtra,Mumbai North-Central,15.1,14.0,36.2,33.0
+Maharashtra,Mumbai South,17.8,14.9,34.0,37.9
+Maharashtra,Mumbai South-Central,16.5,14.4,35.0,35.7
+Maharashtra,Kalyan,21.4,13.1,29.0,27.4
+Maharashtra,Pune,17.8,10.7,30.2,33.4
+Maharashtra,nanded,29.2,25.8,13.6,13.4
+Maharashtra,Yavatmal - Washim,28.1,22.8,12.4,15.7
+Maharashtra,nagpur,23.0,19.1,23.3,18.4
+Manipur,Inner Manipur,9.9,13.9,29.5,22.1
+Manipur,Outer Manipur,8.4,9.2,20.7,16.4
+Meghalaya,Tura,10.7,9.7,10.6,13.2
+Meghalaya,Shillong,12.8,12.8,12.8,7.7
+Mizoram,Mizoram,8.5,7.3,20.4,20.3
+Nagaland,Nagaland,11.8,11.1,15.5,13.6
+NCT of Delhi,West Delhi,12.2,14.1,34.3,25.3
+NCT of Delhi,North West Delhi,13.4,25.1,35.7,17.9
+NCT of Delhi,Chandni Chowk,13.1,22.4,36.4,19.5
+NCT of Delhi,North East Delhi,12.7,16.6,34.3,25.4
+NCT of Delhi,South Delhi,14.2,12.4,32.8,29.6
+NCT of Delhi,East Delhi,10.4,16.1,40.6,34.2
+NCT of Delhi,New Delhi,12.9,11.8,32.6,26.9
+Odisha,Bhadrak,28.8,18.4,14.4,22.5
+Odisha,Jajapur,28.4,21.0,17.5,9.4
+Odisha,Sambalpur,26.4,21.4,16.1,15.4
+Odisha,Baleshwar,26.0,15.6,14.9,22.0
+Odisha,Kendujhar,29.2,19.4,13.1,21.9
+Odisha,Mayurbhanj,31.6,16.4,8.6,16.4
+Odisha,Sundargarh,27.2,15.2,13.6,13.8
+Odisha,Bargarh,30.1,17.6,15.6,16.9
+Odisha,Dhenkanal,24.4,22.9,18.4,16.5
+Odisha,Bolangir,31.9,19.8,11.7,11.8
+Odisha,Kalahandi,34.1,29.5,8.5,12.9
+Odisha,Kandhamal,25.1,21.2,13.6,13.4
+Odisha,Kendrapara,19.5,16.2,27.6,23.8
+Odisha,Cuttack,18.9,15.5,27.9,24.6
+Odisha,Bhubaneswar,15.6,10.2,30.0,26.9
+Odisha,Aska,21.5,17.7,20.9,16.4
+Odisha,Jagatsinghpur,16.9,16.2,25.8,27.0
+Odisha,nabarangapur,38.5,25.9,7.2,9.3
+Odisha,Koraput,33.8,27.4,10.0,14.9
+Odisha,Puri,15.6,14.1,25.7,25.0
+Odisha,Berhampur,21.6,17.4,18.3,15.6
+Puducherry,Puducherry,11.3,10.3,36.5,37.0
+Punjab,Jalandhar,7.4,8.7,26.9,27.0
+Punjab,Hoshiarpur,12.7,14.2,32.5,24.9
+Punjab,Fatehgarh Sahib,11.0,10.8,36.7,31.1
+Punjab,Firozpur,13.8,8.3,27.3,24.3
+Punjab,Patiala,10.9,6.9,34.8,38.1
+Punjab,Bathinda,14.7,11.8,24.3,23.2
+Punjab,Gurdaspur,11.3,20.0,31.5,22.1
+Punjab,Amritsar,11.0,6.4,30.3,33.0
+Punjab,Khadoor Sahib,12.6,14.2,31.6,27.3
+Punjab,Anandpur Sahib,13.3,16.6,39.3,27.2
+Punjab,Sangrur,14.1,8.4,31.1,26.8
+Punjab,Ludhiana,9.2,10.2,35.4,29.4
+Punjab,Faridkot,11.3,7.9,26.9,27.0
+Rajasthan,Churu,25.4,25.4,13.9,10.3
+Rajasthan,Bikaner,23.5,18.8,15.8,14.1
+Rajasthan,Jhunjhunun,19.9,16.6,17.4,16.4
+Rajasthan,Alwar,25.4,13.4,13.0,18.0
+Rajasthan,Jodhpur,21.2,17.6,17.8,17.3
+Rajasthan,Sikar,23.1,15.7,18.2,13.7
+Rajasthan,nagaur,25.1,15.0,14.1,11.6
+Rajasthan,Tonk - Sawai Madhopur,31.4,29.6,10.8,11.3
+Rajasthan,Bharatpur,25.2,21.2,13.8,14.5
+Rajasthan,Barmer,26.0,28.6,11.8,14.2
+Rajasthan,Ajmer,24.1,19.4,16.9,17.4
+Rajasthan,Karauli - Dhaulpur,30.9,32.1,10.2,8.6
+Rajasthan,Jhalawar - Baran,29.6,26.5,9.1,8.3
+Rajasthan,Rajsamand,27.9,22.0,13.5,9.9
+Rajasthan,Jalore,32.2,25.9,9.5,9.6
+Rajasthan,Bhilwara,25.5,23.1,13.6,10.2
+Rajasthan,Kota,28.3,25.7,17.8,14.6
+Rajasthan,Pali,27.6,19.5,16.0,15.3
+Rajasthan,Ganganagar,21.9,14.7,18.0,19.2
+Rajasthan,Dausa,26.8,20.2,12.8,12.5
+Rajasthan,Chittaurgarh,31.7,24.9,14.1,12.0
+Rajasthan,Jaipur,22.7,21.3,17.4,14.6
+Rajasthan,Banswara,35.1,27.9,7.9,7.7
+Rajasthan,Udaipur,37.6,35.4,9.6,11.5
+Rajasthan,Jaipur Rural,23.0,20.3,16.8,14.9
+Sikkim,Sikkim,6.2,2.1,26.4,34.3
+Tamil Nadu,Erode,11.3,10.7,27.3,25.4
+Tamil Nadu,Tenkasi,17.9,17.8,30.2,27.3
+Tamil Nadu,Tirunelveli,18.9,17.3,29.5,30.2
+Tamil Nadu,Kanniyakumari,12.3,6.9,42.5,34.6
+Tamil Nadu,Coimbatore,13.1,7.1,32.3,32.0
+Tamil Nadu,Mayiladuthurai,19.3,16.6,29.9,28.8
+Tamil Nadu,Perambalur,17.2,16.0,30.6,27.0
+Tamil Nadu,Dindigul,14.1,10.6,26.0,24.4
+Tamil Nadu,Arakkonam,13.9,12.4,33.9,27.0
+Tamil Nadu,Chennai South,9.9,7.6,34.8,30.6
+Tamil Nadu,Krishnagiri,18.0,18.0,24.4,21.0
+Tamil Nadu,Arani,16.9,10.2,26.2,31.2
+Tamil Nadu,Tiruvannamalai,15.6,8.7,29.1,28.7
+Tamil Nadu,Sriperumbudur,10.2,10.7,36.3,29.8
+Tamil Nadu,Vellore,14.4,13.0,34.3,26.1
+Tamil Nadu,Kancheepuram,9.5,11.9,39.2,28.3
+Tamil Nadu,Kallakurichi,14.8,13.2,27.3,34.2
+Tamil Nadu,Nilgiris,12.6,8.9,28.2,25.2
+Tamil Nadu,Chidambaram,18.0,15.8,25.8,24.7
+Tamil Nadu,Chennai North,10.0,5.9,33.1,31.5
+Tamil Nadu,Chennai Central,9.6,5.0,33.4,31.4
+Tamil Nadu,Thoothukkudi,17.9,20.2,36.0,22.9
+Tamil Nadu,nagappattinam,20.7,20.3,28.4,25.4
+Tamil Nadu,Tiruvallur,11.1,9.4,32.9,31.6
+Tamil Nadu,Viluppuram,18.6,16.6,24.6,34.1
+Tamil Nadu,Cuddalore,19.3,14.9,29.0,22.1
+Tamil Nadu,Shivaganga,20.9,19.5,27.5,23.9
+Tamil Nadu,Theni,14.1,12.4,34.3,29.8
+Tamil Nadu,Ramanathapuram,18.4,16.3,31.6,23.6
+Tamil Nadu,namakkal,11.0,10.9,25.7,26.5
+Tamil Nadu,Thanjavur,16.6,20.1,32.3,29.5
+Tamil Nadu,Tiruchirappalli,20.0,16.2,28.8,25.8
+Tamil Nadu,Pollachi,13.0,7.2,32.0,31.6
+Tamil Nadu,Karur,16.7,14.6,29.1,25.8
+Tamil Nadu,Dharmapuri,15.0,9.6,26.0,24.3
+Tamil Nadu,Madurai,14.9,11.8,35.4,32.2
+Tamil Nadu,Virudunagar,14.7,16.0,34.1,24.5
+Tamil Nadu,Tiruppur,11.2,11.4,27.6,25.1
+Tamil Nadu,Salem,12.0,10.8,29.4,34.3
+Telangana,Zahirabad,27.6,21.5,20.7,25.3
+Telangana,Khammam,20.2,21.7,27.3,26.1
+Telangana,Medak,29.0,22.9,20.2,19.3
+Telangana,Bhongir,23.7,21.1,26.5,23.5
+Telangana,Chevella,18.4,18.2,35.3,27.9
+Telangana,Secunderabad,13.1,19.5,47.3,33.4
+Telangana,Peddapalle,27.6,23.5,21.4,15.9
+Telangana,nalgonda,24.9,21.4,25.0,22.1
+Telangana,nagarkurnool,28.3,23.8,19.8,21.9
+Telangana,Karimnagar,23.3,22.2,24.8,20.3
+Telangana,Nizamabad,25.5,20.8,22.2,27.6
+Telangana,Adilabad,35.1,25.9,15.8,8.6
+Telangana,Mahabubabad,22.4,22.7,25.9,25.7
+Telangana,Mahbubnagar,28.3,23.8,19.8,21.9
+Telangana,Warangal,24.3,23.6,24.9,25.5
+Telangana,Hyderabad,13.2,19.5,47.1,33.3
+Telangana,Malkajgiri,18.1,18.3,36.0,28.2
+Tripura,Tripura East,21.7,18.1,14.2,13.5
+Tripura,Tripura West,16.6,13.2,17.3,18.2
+Uttar Pradesh,Saharanpur,27.9,25.6,19.7,17.6
+Uttar Pradesh,Kairana,24.4,26.0,20.7,14.1
+Uttar Pradesh,nagina,24.7,29.2,20.1,9.8
+Uttar Pradesh,Muzaffarnagar,20.6,24.6,23.6,13.1
+Uttar Pradesh,Baghpat,19.3,15.8,28.5,18.5
+Uttar Pradesh,Amroha,25.4,24.4,21.6,15.1
+Uttar Pradesh,Sambhal,28.4,28.2,17.7,14.0
+Uttar Pradesh,Meerut,18.3,17.9,29.9,20.9
+Uttar Pradesh,Lalganj,26.6,24.4,16.3,17.0
+Uttar Pradesh,Jalaun,22.9,19.5,12.5,9.0
+Uttar Pradesh,Rampur,28.0,29.3,16.0,11.0
+Uttar Pradesh,Ghaziabad,17.1,15.3,30.1,23.5
+Uttar Pradesh,Pilibhit,28.3,35.6,16.4,9.8
+Uttar Pradesh,Bulandshahr,21.6,24.9,19.3,13.7
+Uttar Pradesh,Kheri,35.7,40.9,8.5,6.5
+Uttar Pradesh,Bareilly,25.4,32.6,20.8,10.5
+Uttar Pradesh,Aonla,27.5,33.0,18.2,10.0
+Uttar Pradesh,Budaun,30.8,33.6,14.2,9.3
+Uttar Pradesh,Shahjahanpur,30.0,39.4,17.0,7.4
+Uttar Pradesh,Bahraich,34.8,30.2,10.4,12.6
+Uttar Pradesh,Aligarh,22.6,21.2,18.7,13.2
+Uttar Pradesh,Dhaurahra,35.7,41.2,8.9,5.5
+Uttar Pradesh,Etah,26.5,23.9,14.9,9.4
+Uttar Pradesh,Mathura,18.1,18.5,22.2,18.4
+Uttar Pradesh,Farrukhabad,23.4,24.8,15.6,12.7
+Uttar Pradesh,Hardoi,30.6,33.2,12.2,4.1
+Uttar Pradesh,Hathras,22.6,22.1,19.4,14.8
+Uttar Pradesh,Domriaganj,27.6,41.4,13.2,10.1
+Uttar Pradesh,Sitapur,35.8,41.7,9.6,4.3
+Uttar Pradesh,Firozabad,21.7,23.9,15.6,11.8
+Uttar Pradesh,Maharajganj,28.4,24.2,14.0,9.0
+Uttar Pradesh,Mainpuri,21.7,22.6,15.3,10.4
+Uttar Pradesh,Kaisarganj,30.8,28.7,11.7,9.1
+Uttar Pradesh,Gonda,28.6,27.2,12.4,8.1
+Uttar Pradesh,Misrikh,29.8,33.2,12.1,5.6
+Uttar Pradesh,Barabanki,28.5,26.3,13.8,11.4
+Uttar Pradesh,Kushi nagar,27.7,27.4,13.6,8.5
+Uttar Pradesh,Fatehpur Sikri,19.3,18.1,21.5,18.9
+Uttar Pradesh,Azamgarh,26.5,24.6,16.2,16.8
+Uttar Pradesh,Bansgaon,23.4,23.8,19.0,16.0
+Uttar Pradesh,Amethi,28.5,27.5,13.0,10.4
+Uttar Pradesh,Akbarpur,15.8,18.6,16.4,15.3
+Uttar Pradesh,Rae Bareli,25.4,32.0,11.0,7.0
+Uttar Pradesh,Mohanlalganj,18.0,18.6,20.4,15.8
+Uttar Pradesh,Deoria,26.5,24.1,15.6,11.0
+Uttar Pradesh,Sant Kabir nagar,26.1,23.7,14.6,16.5
+Uttar Pradesh,Faizabad,29.5,31.5,14.6,11.3
+Uttar Pradesh,Etawah,23.2,24.3,15.0,10.5
+Uttar Pradesh,Sultanpur,30.4,24.9,14.3,12.6
+Uttar Pradesh,Salempur,23.2,24.5,17.0,13.4
+Uttar Pradesh,Ghosi,24.8,33.8,15.5,12.9
+Uttar Pradesh,Chandauli,25.9,19.1,15.7,12.0
+Uttar Pradesh,Allahabad,20.6,27.1,18.1,13.3
+Uttar Pradesh,Mirzapur,28.2,24.5,13.3,9.9
+Uttar Pradesh,Robertsganj,25.3,25.7,13.4,7.8
+Uttar Pradesh,Fatehpur,31.0,22.1,10.0,9.0
+Uttar Pradesh,Jaunpur,29.0,21.3,14.7,16.1
+Uttar Pradesh,Pratapgarh,28.1,21.9,12.0,10.1
+Uttar Pradesh,Hamirpur,29.3,24.2,7.7,9.0
+Uttar Pradesh,Kaushambi,31.5,25.8,10.0,9.5
+Uttar Pradesh,Ballia,24.0,25.5,15.4,16.0
+Uttar Pradesh,Jhansi,25.3,23.2,12.2,7.7
+Uttar Pradesh,Ghazipur,27.4,24.5,13.4,19.4
+Uttar Pradesh,Machhlishahr,27.7,21.3,15.4,15.6
+Uttar Pradesh,Phulpur,20.6,27.1,18.1,13.3
+Uttar Pradesh,Sant Ravi Das nagar (Bhadohi),22.9,24.7,15.3,12.3
+Uttar Pradesh,Ambedkar nagar,30.1,30.5,12.9,9.7
+Uttar Pradesh,Banda,27.5,28.4,7.8,7.3
+Uttar Pradesh,Kanpur,14.8,17.2,16.8,16.3
+Uttar Pradesh,Unnao,26.4,33.0,13.2,5.3
+Uttar Pradesh,Kannauj,23.6,31.0,12.8,9.4
+Uttar Pradesh,Lucknow,14.7,14.3,22.5,18.1
+Uttar Pradesh,Varanasi,23.8,21.5,18.1,14.1
+Uttar Pradesh,Gorakhpur,22.2,25.0,19.9,17.6
+Uttar Pradesh,Basti,24.6,29.2,15.4,8.6
+Uttar Pradesh,Shrawasti,26.4,23.8,10.7,11.5
+Uttar Pradesh,Agra,20.0,19.2,20.7,17.5
+Uttar Pradesh,Gautam Buddha nagar,17.0,18.9,25.7,19.9
+Uttar Pradesh,Bijnor,21.9,25.5,23.2,12.9
+Uttar Pradesh,Moradabad,27.1,28.5,18.5,12.6
+Uttarakhand,Almora,20.7,20.5,13.8,16.4
+Uttarakhand,Hardwar,19.4,14.8,24.1,19.9
+Uttarakhand,Tehri Garhwal,16.7,12.0,17.6,16.1
+Uttarakhand,Garhwal,16.1,16.7,16.6,12.7
+Uttarakhand,nainital - Udhamsingh nagar,18.4,19.6,25.5,18.9
+West Bengal,Darjiling,16.8,9.8,21.7,19.1
+West Bengal,Arambag,20.3,20.2,27.3,16.3
+West Bengal,Barasat,12.1,17.9,28.3,15.8
+West Bengal,Medinipur,27.6,22.6,16.7,13.8
+West Bengal,Tamluk,19.3,8.4,20.9,19.1
+West Bengal,Murshidabad,19.6,19.0,16.4,11.4
+West Bengal,Krishnanagar,11.9,15.6,24.9,11.6
+West Bengal,Birbhum,30.3,31.6,10.3,4.5
+West Bengal,Bolpur,27.2,28.9,13.4,8.1
+West Bengal,Barddhaman - Durgapur,24.0,26.0,17.0,12.2
+West Bengal,Puruliya,47.5,24.5,4.7,8.7
+West Bengal,Barddhaman Purba,24.0,26.0,17.0,12.2
+West Bengal,Bankura,35.6,27.2,8.6,8.9
+West Bengal,Asansol,24.0,26.0,17.0,12.2
+West Bengal,Ranaghat,11.8,15.6,24.9,11.6
+West Bengal,Bishnupur,31.5,27.4,10.7,9.5
+West Bengal,Jangipur,21.1,19.7,14.8,11.4
+West Bengal,Balurghat,25.0,11.0,11.8,10.8
+West Bengal,Maldah Uttar,23.9,15.4,12.0,12.5
+West Bengal,Kolkata Uttar,7.3,17.2,40.6,42.7
+West Bengal,Jhargram,32.4,26.2,14.0,11.8
+West Bengal,Kolkata Dakshin,10.8,18.9,35.2,32.7
+West Bengal,Uluberiya,16.5,20.0,25.8,17.0
+West Bengal,Mathurapur,18.9,23.1,22.6,9.7
+West Bengal,Jaynagar,15.9,20.7,25.1,12.4
+West Bengal,Diamond Harbour,18.9,23.1,22.6,9.7
+West Bengal,Kanthi,19.4,8.3,20.9,19.2
+West Bengal,Basirhat,11.5,17.4,28.9,16.5
+West Bengal,Bangaon,11.6,16.6,27.3,14.5
+West Bengal,Koch Bihar,24.8,19.8,9.7,9.5
+West Bengal,Alipurduars,25.9,17.7,14.0,10.4
+West Bengal,Jalpaiguri,25.9,17.7,14.1,10.4
+West Bengal,Barakpur,11.5,17.4,28.9,16.5
+West Bengal,Haora,16.5,20.1,25.9,17.0
+West Bengal,Jadavpur,18.9,23.1,22.6,9.7
+West Bengal,Hugli,18.3,18.9,29.9,17.2
+West Bengal,Shrirampur,17.4,19.4,27.9,17.1
+West Bengal,Baharampur,21.1,19.7,14.8,11.4
+West Bengal,Maldah Dakshin,23.2,16.3,12.6,12.2
+West Bengal,Raiganj,25.6,17.3,11.1,8.0
+West Bengal,Ghatal,28.0,23.4,16.5,13.5
+West Bengal,Dum Dum,11.5,17.4,28.9,16.5
